@@ -34,3 +34,5 @@ OUTPUT
 ![Screenshot (105)](https://github.com/vaishnavikapile22/django-login-signup-email/assets/149785862/d27f98e4-97a0-4bc9-a3f9-04c6754b1446)
 
 ![Screenshot (106)](https://github.com/vaishnavikapile22/django-login-signup-email/assets/149785862/89253438-f3ce-4e5e-9026-a6be20e7a34d)
+
+![Screenshot (107)](https://github.com/vaishnavikapile22/django-login-signup-email/assets/149785862/d1317e5f-b19f-4e03-884a-dda96a39ba99)
